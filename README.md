@@ -1,3 +1,5 @@
+![Poster](./docs/poster.png)
+
 # WebDevWizardry 🌐✨
 
 ## Project Name: WebDevWizardry
